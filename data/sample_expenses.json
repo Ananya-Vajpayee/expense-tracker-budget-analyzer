@@ -1,0 +1,11 @@
+{
+  "expenses": [
+    {"id": 1, "amount": 450.0, "category": "Food", "description": "Groceries", "date": "2026-09-02"},
+    {"id": 2, "amount": 120.0, "category": "Transport", "description": "Metro card", "date": "2026-09-04"},
+    {"id": 3, "amount": 899.0, "category": "Shopping", "description": "Headphones", "date": "2026-09-09"},
+    {"id": 4, "amount": 260.5, "category": "Food", "description": "Dinner out", "date": "2026-09-15"},
+    {"id": 5, "amount": 300.0, "category": "Bills", "description": "Internet", "date": "2026-09-20"},
+    {"id": 6, "amount": 180.0, "category": "Entertainment", "description": "Movie night", "date": "2026-09-25"}
+  ],
+  "budgets": {"Food": 800.0, "Transport": 500.0, "Shopping": 700.0}
+}
