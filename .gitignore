@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+logs/*.log
+data/expenses.json
+data/*.corrupt
+data/*.tmp
+*.csv
+.venv/
+.idea/
+.vscode/
