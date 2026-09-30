@@ -79,7 +79,21 @@ python -m unittest discover -s tests -t . -v
 Tests cover validators, CRUD, persistence, corrupt-file recovery, analytics, forecasting and budget states.
 
 ## Screenshots
-Add terminal screenshots to a `screenshots/` folder and link them here.
+
+### Listing expenses
+![List](screenshots/list.png)
+
+### Budget status
+![Budget](screenshots/budget-status.png)
+
+### Monthly summary
+![Summary](screenshots/summary.png)
+
+### Input validation
+![Validation](screenshots/validation-error.png)
+
+### Tests passing
+![Tests](screenshots/tests-passing.png)
 
 ## Author
-<Your Name> - <Reg. No.>
+<ANANYA VAJPAYEE> - <Reg No. - 24BCE10584>
